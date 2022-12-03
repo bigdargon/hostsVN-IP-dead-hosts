@@ -1,6 +1,6 @@
-# About [repository-name]
+# About hostsVN-IP-dead-hosts
 
-[![Dead Hosts Infrastructure Workflow](https://github.com/dead-hosts/[repository-name]/actions/workflows/main.yml/badge.svg)](https://github.com/dead-hosts/[repository-name]/actions/workflows/main.yml)
+[![Dead Hosts Infrastructure Workflow](https://github.com/bigdargon/hostsVN-IP-dead-hosts/actions/workflows/main.yml/badge.svg)](https://github.com/dead-hosts/[repository-name]/actions/workflows/main.yml)
 
 ```
 [description]
