@@ -1147,3 +1147,24 @@ Subject                                                                         
 206.238.201.159                                                                                      ACTIVE      HTTP CODE  Unknown           Unknown                        200        AVAILABILITY 
 206.238.201.160                                                                                      ACTIVE      HTTP CODE  Unknown           Unknown                        200        AVAILABILITY 
 206.238.201.161                                                                                      ACTIVE      HTTP CODE  Unknown           Unknown                        200        AVAILABILITY 
+212.224.118.41                                                                                       ACTIVE      DNSLOOKUP  Unknown           Unknown                        Unknown    AVAILABILITY 
+213.142.146.37                                                                                       ACTIVE      DNSLOOKUP  Unknown           Unknown                        Unknown    AVAILABILITY 
+213.142.146.131                                                                                      ACTIVE      HTTP CODE  Unknown           Unknown                        502        AVAILABILITY 
+213.142.146.149                                                                                      ACTIVE      HTTP CODE  Unknown           Unknown                        200        AVAILABILITY 
+213.142.146.12                                                                                       ACTIVE      HTTP CODE  Unknown           Unknown                        200        AVAILABILITY 
+213.142.147.12                                                                                       ACTIVE      HTTP CODE  Unknown           Unknown                        200        AVAILABILITY 
+216.118.240.107                                                                                      ACTIVE      HTTP CODE  Unknown           Unknown                        200        AVAILABILITY 
+216.118.240.203                                                                                      ACTIVE      HTTP CODE  Unknown           Unknown                        200        AVAILABILITY 
+216.118.240.205                                                                                      ACTIVE      HTTP CODE  Unknown           Unknown                        200        AVAILABILITY 
+216.118.240.243                                                                                      ACTIVE      HTTP CODE  Unknown           Unknown                        403        AVAILABILITY 
+216.21.13.14                                                                                         ACTIVE      HTTP CODE  Unknown           Unknown                        200        AVAILABILITY 
+216.21.13.15                                                                                         ACTIVE      HTTP CODE  Unknown           Unknown                        200        AVAILABILITY 
+216.118.240.98                                                                                       ACTIVE      HTTP CODE  Unknown           Unknown                        200        AVAILABILITY 
+216.83.52.80                                                                                         ACTIVE      HTTP CODE  Unknown           Unknown                        200        AVAILABILITY 
+154.39.66.116                                                                                        ACTIVE      HTTP CODE  Unknown           Unknown                        200        AVAILABILITY 
+154.39.66.126                                                                                        ACTIVE      HTTP CODE  Unknown           Unknown                        200        AVAILABILITY 
+154.39.66.171                                                                                        ACTIVE      HTTP CODE  Unknown           Unknown                        200        AVAILABILITY 
+216.83.54.168                                                                                        ACTIVE      HTTP CODE  Unknown           Unknown                        200        AVAILABILITY 
+216.83.54.211                                                                                        ACTIVE      HTTP CODE  Unknown           Unknown                        200        AVAILABILITY 
+216.83.55.2                                                                                          ACTIVE      HTTP CODE  Unknown           Unknown                        200        AVAILABILITY 
+216.83.53.220                                                                                        ACTIVE      HTTP CODE  Unknown           Unknown                        200        AVAILABILITY 
