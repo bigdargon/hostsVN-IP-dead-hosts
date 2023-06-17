@@ -1154,3 +1154,7 @@ Subject                                                                         
 216.83.58.156                                                                                        ACTIVE      HTTP CODE  Unknown           Unknown                        200        AVAILABILITY 
 206.238.201.179                                                                                      ACTIVE      HTTP CODE  Unknown           Unknown                        200        AVAILABILITY 
 206.238.201.180                                                                                      ACTIVE      HTTP CODE  Unknown           Unknown                        200        AVAILABILITY 
+45.67.34.234                                                                                         ACTIVE      DNSLOOKUP  Unknown           Unknown                        Unknown    AVAILABILITY 
+156.227.29.119                                                                                       ACTIVE      HTTP CODE  Unknown           Unknown                        301        AVAILABILITY 
+156.227.29.15                                                                                        ACTIVE      HTTP CODE  Unknown           Unknown                        301        AVAILABILITY 
+156.227.29.100                                                                                       ACTIVE      HTTP CODE  Unknown           Unknown                        301        AVAILABILITY 
